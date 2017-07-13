@@ -29,15 +29,18 @@ https://snack.expo.io/B1jDvJEH-
 
 ## Quick start
 
+Clone the repository
 ```
 git clone https://github.com/agrcrobles/react-native-live-translator.git
 cd react-native-live-translator
-npm start # start the packager
+```
+Run the app
+```
 react-native run-android # only on android
 react-native run-ios # only on ios
 ```
 
-Prerequesites: Node version 6.0 or higher and npm version 3.0 or higher as well as android or ios running.
+Prerequisites: Node version 6.0 or higher and npm version 3.0 or higher as well as android or ios running.
 
 More info see: https://facebook.github.io/react-native/docs/getting-started.html
 
@@ -56,7 +59,6 @@ For further information look into [getting started](https://cloud.google.com/tra
 ## Supported languages
 
 * en: English
-* ca: Catalan
 * es: Spanish
 * de: Deutsch
 
@@ -65,7 +67,6 @@ For further information look into [getting started](https://cloud.google.com/tra
 * react-native-camera
 * react-native-timer
 * react-native-sensors
-* axios
 
 ## Contribute!! :)
 
@@ -77,6 +78,8 @@ The following improvements and PR could be accepted:
 * An image diff algorithm could be also useful to avoid being overkill when taking and recording a picture.
 
 ## Demo
+
+![me playing with the app](https://raw.githubusercontent.com/agrcrobles/react-native-live-translator/master/assets/demo.gif)
 
 ## License
 
