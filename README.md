@@ -16,6 +16,9 @@ With the help of advanced Google Cloud technology such as Cloud Vision, the info
 
 It is inspired from [Google's "Giorgio Cam" AI](https://www.youtube.com/watch?v=eKeI63VSpto) and [react-native-camera-translator](https://github.com/DjordjePetrovic/react-native-camera-translator) experiments.
 
+For a thorough discussion, please read the following [blog post](https://blog.hellojs.org/an-augmented-reality-experiment-in-react-native-fc473f6c1b5c) about it.
+
+
 ## Selecting a language.
 I created the language selector using snack expo using Animated and PanResponder from react native.
 
@@ -27,6 +30,8 @@ I am also using the mobile accelerometer to create an animated transition in ord
 
 https://snack.expo.io/B1jDvJEH-
 
+https://snack.expo.io/Bk0aqeTSZ
+
 ## Quick start
 
 Clone the repository
@@ -34,6 +39,7 @@ Clone the repository
 git clone https://github.com/agrcrobles/react-native-live-translator.git
 cd react-native-live-translator
 ```
+
 Run the app
 ```
 react-native run-android # only on android
@@ -66,7 +72,7 @@ For further information look into [getting started](https://cloud.google.com/tra
 
 * react-native-camera
 * react-native-timer
-* react-native-sensors
+* [react-native-sensors](https://github.com/react-native-sensors/react-native-sensors#cool-projects-using-react-native-sensors)
 
 ## Contribute!! :)
 
